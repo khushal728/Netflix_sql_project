@@ -2,7 +2,14 @@
 
 # 📊 Netflix Data Analysis using SQL
 
-This project involves in-depth analysis of the Netflix Titles dataset using PostgreSQL. It explores key business questions, viewer behavior, content trends, and regional content distribution.
+## Overview
+This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+
+## Objectives
+1.Analyze the distribution of content types (movies vs TV shows).
+2.Identify the most common ratings for movies and TV shows.
+3.List and analyze content based on release years, countries, and durations.
+4.Explore and categorize content based on specific criteria and keyword
 
 ## 📁 Dataset
 
