@@ -2,7 +2,7 @@
 
 # 📊 Netflix Data Analysis using SQL
 <p align="center">
-  <img src="assets/logo.png" alt="Netflix Logo" width="500"/>
+  <img src="logo.png" alt="Netflix Logo" width="500"/>
 </p>
 
 ## Overview
