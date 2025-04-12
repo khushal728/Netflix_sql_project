@@ -7,8 +7,11 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ## Objectives
 1.Analyze the distribution of content types (movies vs TV shows).
+
 2.Identify the most common ratings for movies and TV shows.
+
 3.List and analyze content based on release years, countries, and durations.
+
 4.Explore and categorize content based on specific criteria and keyword
 
 ## 📁 Dataset
@@ -85,5 +88,7 @@ CREATE TABLE netflix (
 Feel free to connect if you’re passionate about SQL, analytics, or data storytelling.
 
 LinkedIn: [www.linkedin.com/in/khushal-joshi728]
+
 GitHub: (https://github.com/khushal728)]
+
 Email: [Khushalj2003@gmail.com]
