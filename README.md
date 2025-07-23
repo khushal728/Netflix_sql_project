@@ -1,4 +1,4 @@
-# Netflix_sql_project
+# Netflix_sql_project.
 
 # 📊 Netflix Data Analysis using SQL
 <p align="center">
